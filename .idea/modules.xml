@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LabExer5A/LabExer5A.iml" filepath="$PROJECT_DIR$/LabExer5A/LabExer5A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabExer5B/LabExer5B.iml" filepath="$PROJECT_DIR$/LabExer5B/LabExer5B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabExer6A/LabExer6A.iml" filepath="$PROJECT_DIR$/LabExer6A/LabExer6A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Samples/Samples.iml" filepath="$PROJECT_DIR$/Samples/Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskPerf6/TaskPerf6.iml" filepath="$PROJECT_DIR$/TaskPerf6/TaskPerf6.iml" />
+    </modules>
+  </component>
+</project>
